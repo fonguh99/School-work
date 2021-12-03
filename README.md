@@ -1,2 +1,2 @@
-# bookish-disco
-just the beginning of my football coding career
+# Fonguh Blaise
+just the beginning of my coding career
