@@ -7,3 +7,4 @@ dice2 = random.randint(1, 6)
 
 print(dice1)
 print(dice2)
+print("Blaise")
