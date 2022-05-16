@@ -1,0 +1,10 @@
+class Student:
+    def __init__(self, name):
+        self.name = name
+
+    def greet(self):
+        print(self.name+" says hi")
+
+
+obj = Student("John")
+obj.greet()
