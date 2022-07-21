@@ -1,0 +1,7 @@
+C:\Users\WATI BLAISE\Documents\GitHub\projects\CSM 264-Visual Basic\Ch01VBUniversity\obj\Debug\net6.0-windows\Ch01VBUniversity.vbproj.AssemblyReference.cache
+C:\Users\WATI BLAISE\Documents\GitHub\projects\CSM 264-Visual Basic\Ch01VBUniversity\obj\Debug\net6.0-windows\Ch01VBUniversity.StudentInfo.resources
+C:\Users\WATI BLAISE\Documents\GitHub\projects\CSM 264-Visual Basic\Ch01VBUniversity\obj\Debug\net6.0-windows\Ch01VBUniversity.vbproj.GenerateResource.cache
+C:\Users\WATI BLAISE\Documents\GitHub\projects\CSM 264-Visual Basic\Ch01VBUniversity\obj\Debug\net6.0-windows\Ch01VBUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WATI BLAISE\Documents\GitHub\projects\CSM 264-Visual Basic\Ch01VBUniversity\obj\Debug\net6.0-windows\Ch01VBUniversity.AssemblyInfoInputs.cache
+C:\Users\WATI BLAISE\Documents\GitHub\projects\CSM 264-Visual Basic\Ch01VBUniversity\obj\Debug\net6.0-windows\Ch01VBUniversity.AssemblyInfo.vb
+C:\Users\WATI BLAISE\Documents\GitHub\projects\CSM 264-Visual Basic\Ch01VBUniversity\obj\Debug\net6.0-windows\Ch01VBUniversity.vbproj.CoreCompileInputs.cache
